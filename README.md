@@ -24,7 +24,7 @@ For example, user wants to get up early for every day a month and if they succee
 
 ## Frontend
 
-[Link to frontend repository](https://gitlab.com/Pinosto/teamredfrontend)
+[Link to frontend repository](https://github.com/emiliacs/HabitTrackerFrontend)
 
 ### Requirements
 
