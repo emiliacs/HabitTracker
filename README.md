@@ -39,7 +39,7 @@ For example, user wants to get up early for every day a month and if they succee
 
 ## Backend
 
-[Link to backend repository](https://gitlab.com/CoffeeHawk/teamredbackend)
+[Link to backend repository](https://github.com/emiliacs/HabitTrackerBackend)
 
 ### Requirements
 
